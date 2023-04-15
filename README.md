@@ -1,12 +1,16 @@
-# SimonGame-A-Practice-Project
-- A practice Project in the course on Web Development by Angela Yu
+# Simon Game
 
-## Rules
-- Press Any Key to start the game.
-- In Level 1 ,Game selects a color.
-- User should press the same color button.
-- In Next Level Game selects another button.
-- But this time *USER SHOULD REMEMBER THE COLORS IN ORDER AND TYPE THEM IN THE EXACT ORDER FROM LEVEL 1 TO CURRENT LEVEL*.
+- Hosted on [GitHub Pages](https://pavanmanishd.github.io/SimonGame/)
 
-## Live Preview
-- Link : https://pavanmanishd.github.io/SimonGame-A-Practice-Project/
+## Description
+
+This is a simple Simon game made with HTML, CSS and JavaScript.
+
+## How to play
+
+1. Click on the start button to start the game.
+2. The game will show you a sequence of colors.
+3. You have to repeat the sequence by clicking on the colors in the same order.
+4. If you click on the wrong color, the game will end.
+5. If you click on the right color, the game will show you the next sequence.
+6. The game will increase the sequence length by one color each time you click on the right color.
